@@ -6,7 +6,6 @@
 
 *Curated list of projects using Starkzap SDK, Bitcoin in your app in minutes.*
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </div>
@@ -25,7 +24,7 @@
 
 | Repository | Description |
 | ---------- | ----------- |
-| [starknet-agentic](https://github.com/Akashneelesh/starknet-agentic) | The infrastructure layer for the agentic era on Starknet. |
+| | |
 
 ## Gaming Applications
 
