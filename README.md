@@ -1,5 +1,61 @@
-# awesome-starkzap
-Curated list of projects using Starkzap
+<div align="center">
+
+# Awesome Starkzap
+
+---
+
+*Curated list of projects using Starkzap SDK, Bitcoin in your app in minutes.*
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+</div>
+
+> Pull Requests are being welcomed. Please see the [Contributing Guide](#contributing) before opening a Pull Request.
+
+## Index
+
+- [Consumer Applications](#consumer-applications)
+- [Gaming Applications](#gaming-applications)
+- [DeFi Applications](#defi-applications)
+
+---
+
+## Consumer Applications
+
+| Repository | Description |
+| ---------- | ----------- |
+| [starknet-agentic](https://github.com/Akashneelesh/starknet-agentic) | The infrastructure layer for the agentic era on Starknet. |
+
+## Gaming Applications
+
+| Repository | Description |
+| ---------- | ----------- |
+| | |
+
+## DeFi Applications
+
+| Repository | Description |
+| ---------- | ----------- |
+| | |
+
+---
+
+## Contributing
+
+To add your project, open a PR adding a row to the relevant category table:
+
+| Repository | Description |
+| ---------- | ----------- |
+| [your-repo-name](https://github.com/your-username/your-repo) | A short description of your project. |
+
+1. Fork this repository
+2. Add your project to the appropriate category table
+3. Open a Pull Request
+
+Once your PR is merged, you will automatically be added to the contributors list below.
+
+---
 
 ## Contributors
 
