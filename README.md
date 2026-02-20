@@ -4,9 +4,11 @@
 
 <img width="1280" height="640" alt="GitHub banenr" src="https://github.com/user-attachments/assets/27524ef8-9598-45f4-a4e7-a97385edc294" />
 
+</div>
+
 ---
 
-*Curated list of projects using Starkzap SDK, Bitcoin in your app in minutes.*
+*Curated list of projects using Starkzap SDK which enables you to have Bitcoin in your app in minutes.*
 
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
