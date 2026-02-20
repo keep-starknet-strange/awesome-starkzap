@@ -1,0 +1,34 @@
+{
+  "projectName": "awesome-starkzap",
+  "projectOwner": "Akashneelesh",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Akashneelesh",
+      "name": "Akashneelesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66639153?v=4",
+      "profile": "https://github.com/Akashneelesh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "0xsisyfos",
+      "name": "Sisyfos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107465625?v=4",
+      "profile": "https://github.com/0xsisyfos",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
