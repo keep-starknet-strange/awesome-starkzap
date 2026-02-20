@@ -24,21 +24,21 @@
 
 ## Consumer Applications
 
-| Repository | Description |
-| ---------- | ----------- |
-| | |
+| Project Name | Repository | Description | Live Link |
+| ------------ | ---------- | ----------- | --------- |
+| | | | |
 
 ## Gaming Applications
 
-| Repository | Description |
-| ---------- | ----------- |
-| | |
+| Project Name | Repository | Description | Live Link |
+| ------------ | ---------- | ----------- | --------- |
+| | | | |
 
 ## DeFi Applications
 
-| Repository | Description |
-| ---------- | ----------- |
-| | |
+| Project Name | Repository | Description | Live Link |
+| ------------ | ---------- | ----------- | --------- |
+| | | | |
 
 ---
 
@@ -46,9 +46,9 @@
 
 To add your project, open a PR adding a row to the relevant category table:
 
-| Repository | Description |
-| ---------- | ----------- |
-| [your-repo-name](https://github.com/your-username/your-repo) | A short description of your project. |
+| Project Name | Repository | Description | Live Link |
+| ------------ | ---------- | ----------- | --------- |
+| Your Project | [your-repo-name](https://github.com/your-username/your-repo) | A short description of your project. | [Link](https://your-live-url.com) |
 
 1. Fork this repository
 2. Add your project to the appropriate category table
