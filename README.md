@@ -30,7 +30,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| | | | |
+| Winky | A blinking app on Starknet. Every blink is a gasless on-chain transaction, powered by Privy social login and AVNU Paymaster. | [Repo](https://github.com/starkience/winky-starkzap) | - |
 
 ## Gaming Applications
 
