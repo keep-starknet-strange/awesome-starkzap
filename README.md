@@ -36,6 +36,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
+| Flappy Bird | Flappy Bird on Starknet with scores on-chain using the Cartridge Controller. | [Repo](https://github.com/0xsisyfos/x/tree/main/examples/flappy-bird) | [Live Demo](https://flappybird-starkzap.vercel.app/) |
 | | | | |
 
 ## DeFi Applications
