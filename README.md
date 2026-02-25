@@ -14,7 +14,9 @@
 
 Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in minutes. One TypeScript SDK: wallets, tokens, staking, and gasless transactions with a clean API and great UX. Starknet's account abstraction lets you hide blockchain complexity (no seed phrases, optional gasless flows). Works on web (React, Vite, etc.), iOS & Android (React Native, Expo), and Node.js backends.
 
-[Starkzap SDK](https://github.com/keep-starknet-strange/x)
+**Link to Starkzap SDK:** [Starkzap SDK](https://github.com/keep-starknet-strange/x)
+
+**Starkzap Debugging Group:** [telegram chat](https://t.me/+I-Vt-_DcvecwNmY0)
 
 </div>
 
