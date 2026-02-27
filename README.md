@@ -49,7 +49,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| | | | |
+| StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
 
 ---
 
