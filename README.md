@@ -50,6 +50,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| Veil Protocol | Privacy-first DeFi on Starknet. Full portfolio management with 9-token balances, send flow, multi-validator staking (STRK), gasless transactions via AVNU paymaster, and active token discovery — all powered by Starkzap SDK. Deployed on mainnet. | [Repo](https://github.com/shariqazeem/veil-protocol) | [Live](https://theveilprotocol.vercel.app) |
 
 ---
 
