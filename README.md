@@ -43,7 +43,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | Flappy Bird | Flappy Bird on Starknet with scores on-chain using the Cartridge Controller. | [Repo](https://github.com/0xsisyfos/x/tree/main/examples/flappy-bird) | [Live Demo](https://flappybird-starkzap.vercel.app/) |
-| Dark-Waters | Ocean adventure game integrated with Starkzap for in-game Bitcoin payments and Starknet transactions. | Coming soon | Coming soon |
+| Dark-Waters | Turn-based on-chain naval strategy game on Starknet (Dojo) with hidden fleet commitments, commit-reveal attacks, and Merkle-proof hit/miss resolution. | [Repo](https://github.com/0takuc0mrade/Dark-Waters.git) | [Live Demo](https://dark-waters-m2fn.vercel.app/) |
 
 ## DeFi Applications
 
