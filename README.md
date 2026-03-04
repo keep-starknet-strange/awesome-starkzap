@@ -27,6 +27,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 - [Consumer Applications](#consumer-applications)
 - [Gaming Applications](#gaming-applications)
 - [DeFi Applications](#defi-applications)
+- [Educational Resources](#educational-resources)
 
 ---
 
@@ -51,6 +52,18 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+
+## Educational Resources
+
+Articles, tutorials, and videos to help you get started with Starkzap.
+
+| Title | Type | Link |
+| ----- | ---- | ---- |
+| Starkzap SDK Walkthrough | Video | [X Post](https://x.com/starkience/status/2027332381611274617) |
+| Bring Bitcoin to your app now in minutes | Article | [Dev.to](https://dev.to/akashneelesh/bring-bitcoin-to-your-app-now-in-minutes-39oe) |
+| I Added BTC Staking to a Stock Trading App in 200 Lines of Code | Article | [Dev.to](https://dev.to/victor_sizaret_d09aac682b/i-added-btc-staking-to-a-stock-trading-app-in-200-lines-of-code-4bmh) |
+| Starkzap SDK Demo | Video | [X Post](https://x.com/akashneelesh/status/2029142688881066246) |
+| How Apps Monetize With Crypto: 13 Revenue Streams Using the Starkzap SDK | Article | [Medium](https://medium.com/@victor_77558/how-apps-monetize-with-crypto-13-revenue-streams-using-the-starkzap-sdk-58232dc4c8bf) |
 
 ---
 
