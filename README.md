@@ -52,6 +52,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| StarkFolio | AI-powered Bitcoin yield agent on Starknet. Chat with an AI agent to check balances, discover staking pools, stake STRK, claim rewards, and transfer tokens — all gasless via AVNU Paymaster. Uses Privy social login, real on-chain reads via StarkZap SDK, and Gemini AI function calling. | [Repo](https://github.com/nagavaishak/StarkFolio) | [Live](https://starkfolio-umber.vercel.app/) |
 
 ---
 
