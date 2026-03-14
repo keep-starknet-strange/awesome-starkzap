@@ -62,8 +62,8 @@ To add your project, open a PR adding a row to the relevant category table:
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| MISTZap | Zap private payments by QR code (WIP). | [mistcash/mistzap](https://github.com/mistcash/mistzap) | [Link](https://your-live-url.com) |
-
+| Your Project | A short description of your project. | [your-repo-name](https://github.com/your-username/your-repo) | [Link](https://your-live-url.com) |
+ 
 1. Fork this repository
 2. Add your project to the appropriate category table
 3. Open a Pull Request
