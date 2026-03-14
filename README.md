@@ -46,7 +46,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Flappy Bird | Flappy Bird on Starknet with scores on-chain using the Cartridge Controller. | [Repo](https://github.com/0xsisyfos/x/tree/main/examples/flappy-bird) | [Live Demo](https://flappybird-starkzap.vercel.app/) |
 | Starkfleet  | Privacy-Preserving Turn-Based Battleship with Cartridge Controller | [Repo](https://github.com/fearmexxx/starkfleet-submission) | [Live Demo](https://fleet.supbro.fun/) |
 | Type Racer | Typing Race where every single correct word typed out is a transaction on Starknet. (Someone please integrate a Wager system :p) | [Repo](https://github.com/RealAdii/typeracer) | [Live Demo](https://typeracer-mainnet.vercel.app/) |
-| ZapArena | Social wager gaming platform on Starknet. Challenge players to Coin Flip, Rock Paper Scissors, and Price Prediction games with real crypto stakes. | [Repo](https://github.com/manojkgorle/starkzap) | Demo to be deployed | 
+| ZapArena | Social wager gaming platform on Starknet. Challenge players to Coin Flip, Rock Paper Scissors, and Price Prediction games with real crypto stakes. | [Repo](https://github.com/manojkgorle/starkzap) | [Demo](https://divided-cookies-interfaces-con.trycloudflare.com) | 
 
 ## DeFi Applications
 
