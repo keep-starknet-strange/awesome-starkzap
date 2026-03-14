@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Leaderboard mock screenshot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#1a1030"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+
+  <text x="70" y="110" fill="#f9fafb" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="40" font-weight="900">
+    Leaderboard
+  </text>
+  <rect x="70" y="130" width="220" height="4" fill="url(#accent)"/>
+
+  <rect x="70" y="170" width="1060" height="430" rx="18" fill="#0f1733" opacity="0.96"/>
+
+  <!-- header -->
+  <g fill="#94a3b8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="14" font-weight="700">
+    <text x="110" y="220">Rank</text>
+    <text x="220" y="220">Player</text>
+    <text x="680" y="220">Score</text>
+    <text x="820" y="220">Level</text>
+    <text x="930" y="220">Deaths</text>
+    <text x="1040" y="220">Coins</text>
+  </g>
+
+  <!-- rows -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" fill="#e5e7eb">
+    <rect x="95" y="248" width="1010" height="56" rx="12" fill="#111a38"/>
+    <text x="110" y="282">1</text>
+    <text x="220" y="282">0x6677&9e08</text>
+    <text x="680" y="282">12340</text>
+    <text x="820" y="282">9</text>
+    <text x="940" y="282">3</text>
+    <text x="1045" y="282">42</text>
+
+    <rect x="95" y="316" width="1010" height="56" rx="12" fill="#0f1733"/>
+    <text x="110" y="350">2</text>
+    <text x="220" y="350">0x1ab2&cdef</text>
+    <text x="680" y="350">11890</text>
+    <text x="820" y="350">8</text>
+    <text x="940" y="350">4</text>
+    <text x="1045" y="350">39</text>
+
+    <rect x="95" y="384" width="1010" height="56" rx="12" fill="#0f1733"/>
+    <text x="110" y="418">3</text>
+    <text x="220" y="418">0x9f00&1234</text>
+    <text x="680" y="418">11050</text>
+    <text x="820" y="418">8</text>
+    <text x="940" y="418">6</text>
+    <text x="1045" y="418">33</text>
+  </g>
+
+  <text x="70" y="635" fill="#94a3b8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="12">
+    Mock screenshot (replace with real screenshots anytime)
+  </text>
+</svg>
+
