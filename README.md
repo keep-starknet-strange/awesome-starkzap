@@ -46,7 +46,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Flappy Bird | Flappy Bird on Starknet with scores on-chain using the Cartridge Controller. | [Repo](https://github.com/0xsisyfos/x/tree/main/examples/flappy-bird) | [Live Demo](https://flappybird-starkzap.vercel.app/) |
 | Starkfleet  | Privacy-Preserving Turn-Based Battleship with Cartridge Controller | [Repo](https://github.com/fearmexxx/starkfleet-submission) | [Live Demo](https://fleet.supbro.fun/) |
 | Type Racer | Typing Race where every single correct word typed out is a transaction on Starknet. (Someone please integrate a Wager system :p) | [Repo](https://github.com/RealAdii/typeracer) | [Live Demo](https://typeracer-mainnet.vercel.app/) |
-| UnoZap | On-chain UNO card game built with Dojo ECS. Full game logic on Starknet with gasless gameplay via Starkzap and Cartridge Controller. | [Repo](https://github.com/Paracausal-Labs/UnoZap) | [Live Demo](https://unozap-game.vercel.app/) |
+| UnoZap | On-chain UNO card game built with Dojo ECS. Full game logic on Starknet with gasless gameplay via Starkzap and Cartridge Controller. | [Repo](https://github.com/Paracausal-Labs/UnoZap) | [Demo Video](https://youtu.be/w1dhEyoUr7Y) |
 
 ## DeFi Applications
 
