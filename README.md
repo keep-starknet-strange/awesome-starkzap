@@ -27,6 +27,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 - [Consumer Applications](#consumer-applications)
 - [Gaming Applications](#gaming-applications)
 - [DeFi Applications](#defi-applications)
+- [AI & Agent Applications](#ai--agent-applications)
 
 ---
 
@@ -52,6 +53,12 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+
+## AI & Agent Applications
+
+| Project Name | Description | Repository | Live Link |
+| ------------ | ----------- | ---------- | --------- |
+| Starkshield | Privacy-first AI agent wallet on Starknet. Auto-generates self-custodial wallets for AI agents, shields DeFi positions with ZK privacy (Tongo SDK), and is discoverable via MCP server and SKILL.md. Uses StarkZap for wallet onboarding, transfers, and transaction execution. AVNU for DEX aggregation. | [Repo](https://github.com/ayushsrivastava55/starkshield) | [Live](https://starkshield-jade.vercel.app/) |
 
 ---
 
