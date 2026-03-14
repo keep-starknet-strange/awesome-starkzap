@@ -53,6 +53,12 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
 
+ ## DePin Applications
+
+| Project Name | Description | Repository | Live Link |
+| ------------ | ----------- | ---------- | --------- |
+| Starkrage | StarkRage turns idle local hardware into a decentralized private cloud node on Starknet, letting anyone monetize unused compute and earn $STRK.| [Repo](https://github.com/sailorworks/starkrage) | [Live](https://starkrage.vercel.app/) |
+
 ---
 
 ## Contributing
