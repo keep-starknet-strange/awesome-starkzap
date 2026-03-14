@@ -52,6 +52,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://mistzap.vercel.app/) |
 
 ---
 
@@ -61,7 +62,7 @@ To add your project, open a PR adding a row to the relevant category table:
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| Your Project | A short description of your project. | [your-repo-name](https://github.com/your-username/your-repo) | [Link](https://your-live-url.com) |
+| MISTZap | Zap private payments by QR code (WIP). | [mistcash/mistzap](https://github.com/mistcash/mistzap) | [Link](https://your-live-url.com) |
 
 1. Fork this repository
 2. Add your project to the appropriate category table
