@@ -1,0 +1,10 @@
+# Visit https://foundry-rs.github.io/starknet-foundry/appendix/snfoundry-toml.html
+# and https://foundry-rs.github.io/starknet-foundry/projects/configuration.html for more information
+
+[sncast.sepolia]
+url = "https://api.zan.top/starknet-sepolia"
+accounts-file = "accounts.json"
+account = "deployer"
+wait-params = { timeout = 300, retry-interval = 10 }
+block-explorer = "Voyager"
+show-explorer-links = true

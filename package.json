@@ -1,0 +1,25 @@
+{
+  "name": "koool_shit",
+  "version": "1.0.0",
+  "description": "A blockchain-enabled game with permanent on-chain score storage powered by Starknet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanmay-say/Koool_Shit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tanmay-say/Koool_Shit/issues"
+  },
+  "homepage": "https://github.com/Tanmay-say/Koool_Shit#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "starknet": "^9.4.2"
+  }
+}

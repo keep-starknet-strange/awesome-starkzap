@@ -1,0 +1,12 @@
+{
+    "name": "game_scores_deploy",
+    "version": "1.0.0",
+    "description": "Deployment script for GameScores Starknet contract",
+    "type": "module",
+    "scripts": {
+        "deploy": "node deploy.js"
+    },
+    "dependencies": {
+        "starknet": "^6.23.1"
+    }
+}
