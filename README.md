@@ -35,6 +35,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | Winky-Starkzap | A blinking app on Starknet. Every blink is a gasless on-chain transaction, powered by Privy social login and AVNU Paymaster. | [Repo](https://github.com/starkience/winky-starkzap) | [Live Demo](https://wink-with-starkzap.netlify.app/) |
+| IdeaGalaxy | Developer platform where users manage ideas in a galaxy-style view, and use a Wallet page to connect a Starknet Sepolia wallet (via Cartridge or a dev private key), view their STRK balance, and send STRK to any address; transfers use the StarkZap SDK and can be checked on Voyager explorer, with a link to the Starknet Sepolia Faucet for test tokens. | [Live Demo](https://starknet-wallet.vercel.app/) |
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
