@@ -38,6 +38,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
+| StarkSwipe | Telegram-native freelance matching with AI shortlisting and StarkNet-based escrow settlement. [Telegram Bot](https://t.me/starkswipe_bot) | [Repo](https://github.com/vedantlavale/blitz-alpha) | [Live Demo](https://blitz-alpha-k13s.vercel.app) |
 
 ## Gaming Applications
 
