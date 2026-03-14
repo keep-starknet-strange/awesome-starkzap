@@ -39,6 +39,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
 | BroBet | A private bet between friends - no public feeds, no noise, no crypto jargons. Drop a link, pick a side, and let the pot settle itself when time’s up. | [Repo](https://github.com/CodeswithrohStudio/brobet) | [Live Demo](https://brobet.netlify.app/) |
+| RateMe or SlashMe | India's Got Latent on chain. | [Repo](https://github.com/CodeswithrohStudio/rateme) | [Live Demo](https://rateme.vercel.app/) |
 
 ## Gaming Applications
 
