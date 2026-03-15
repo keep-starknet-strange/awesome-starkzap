@@ -52,7 +52,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
-
+| Touch Grass | Stake STRK, go outside, unlock yield. A DeFi app that locks your staking yield until you prove you went outdoors. Groq AI verifies your photo. Daily streaks, live leaderboard, anti-cheat system. | [Repo](https://github.com/Arshad-WD/touch-grass) | [Live Demo](https://touchgrass.jenixweblancer.in) |
 ---
 
 ## Contributing
