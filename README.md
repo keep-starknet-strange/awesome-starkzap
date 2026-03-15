@@ -52,6 +52,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| Amora | Automated concentrated liquidity management on Ekubo DEX. Uses Starkzap for STRK staking (delegation pools), Cartridge Controller for session-based wallet connections, and AVNU Paymaster for gasless deposits and withdrawals. | [Repo](https://github.com/joaoolucas/amora-alm) | [Live](https://getamora.xyz) |
 
 ---
 
