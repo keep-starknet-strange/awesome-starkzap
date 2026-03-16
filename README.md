@@ -9,6 +9,9 @@
 LIVE LINK: https://starknet-payroll.vercel.app/
 https://github.com/Demiladepy/starknet-payroll
 
+Privacy-First Payroll System
+A privacy-preserving payroll app on Starknet with Starkzap and Tongo: company dashboard, employee management, and optional private (encrypted) transfers.
+
 ---
 
 *Curated list of projects using Starkzap SDK which enables you to have Bitcoin in your app in minutes.*
