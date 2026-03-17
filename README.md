@@ -38,6 +38,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
+| Yap Me     | A blockchain-powered review platform built on Starknet that lets users rate and review places, creators, and products with full privacy controls  while keeping the blockchain completely invisible to users.No wallets. No gas fees. No crypto jargon. Just reviews. | [Repo](https://github.com/saiisback/yapper.git) | [Live Demo](https://yap-me.xyz) |
 
 ## Gaming Applications
 
