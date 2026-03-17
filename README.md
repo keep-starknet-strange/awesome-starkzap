@@ -52,6 +52,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| TrustX | P2P INR (via UPI)<>STRK Marketplace for on/offramp with off-chain UPI payments, verified by an Eigen TEE. | [Repo](https://github.com/AvinashNayak27/strk-upi-escrow/) | [Live](https://trustx-mu.vercel.app/) |
 
 ---
 
