@@ -53,6 +53,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
 | Solana StarkZap | A Solana SuperApp with Privy integrated, generating a Starknet address used to bridge USDC from Solana to Starknet, swap via AVNU and lend via Vesu. AVNU Paymaster integrated. | [Repo](https://github.com/starkience/solana-starkzap) | [video demo](https://x.com/starkience/status/2033562199730332042?s=20) |
+| SmoothYield | A smooth yield app on Starknet built with Starkzap. | [Repo](https://github.com/starkience/smoothyield) | [video](https://x.com/starkience/status/2029502484582982002?s=20) |
 
 ## Educational Resources
 
