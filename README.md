@@ -90,6 +90,9 @@ Thanks goes to these wonderful people:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/fearmexxx"><img src="https://avatars.githubusercontent.com/u/89799857?v=4?s=100" width="100px;" alt="maxxeth"/><br /><sub><b>maxxeth</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=fearmexxx" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/azeemshaik025"><img src="https://avatars.githubusercontent.com/u/108066377?v=4?s=100" width="100px;" alt="Azeem Shaik"/><br /><sub><b>Azeem Shaik</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=azeemshaik025" title="Code">💻</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZackAttax"><img src="https://avatars.githubusercontent.com/u/77751416?v=4?s=100" width="100px;" alt="Zack Williams"/><br /><sub><b>Zack Williams</b></sub></a><br /><a href="https://github.com/Akashneelesh/awesome-starkzap/commits?author=ZackAttax" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
