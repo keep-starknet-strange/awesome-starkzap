@@ -38,6 +38,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
+| Starknet Credit Score | On-chain credit scoring and identity layer for Starknet wallets. Analyzes wallet activity to generate credit scores, AI personality profiles, and Wallet DNA art. Score-gated STRK staking via Starkzap SDK. | [Repo](https://github.com/Borax0x0/starknet-credit-score) | [Live Demo](https://starknet-credit-score.vercel.app) |
 
 ## Gaming Applications
 
