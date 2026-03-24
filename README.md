@@ -46,7 +46,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Flappy Bird | Flappy Bird on Starknet with scores on-chain using the Cartridge Controller. | [Repo](https://github.com/0xsisyfos/x/tree/main/examples/flappy-bird) | [Live Demo](https://flappybird-starkzap.vercel.app/) |
 | Starkfleet  | Privacy-Preserving Turn-Based Battleship with Cartridge Controller | [Repo](https://github.com/fearmexxx/starkfleet-submission) | [Live Demo](https://fleet.supbro.fun/) |
 | Type Racer | Typing Race where every single correct word typed out is a transaction on Starknet. (Someone please integrate a Wager system :p) | [Repo](https://github.com/RealAdii/typeracer) | [Live Demo](https://typeracer-mainnet.vercel.app/) |
-| Tic-Tac-Toe | React Native Expo tic-tac-toe on Starknet with Cartridge session; official Starkzap monorepo example. | [Repo](https://github.com/keep-starknet-strange/starkzap/tree/main/examples/tic-tac-toe) | [README](https://github.com/keep-starknet-strange/starkzap/blob/main/examples/tic-tac-toe/README.md) |
+| Tic-Tac-Toe | React Native Expo tic-tac-toe on Starknet with a Cairo contract, RPC configuration, and Sepolia deploy helpers. | [Repo](https://github.com/ZackAttax/tic-tac-toe-on-starknet) | [README](https://github.com/ZackAttax/tic-tac-toe-on-starknet/blob/main/README.md) |
 
 ## DeFi Applications
 
