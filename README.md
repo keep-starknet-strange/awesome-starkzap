@@ -54,23 +54,9 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
 
----
-
-## Contributing
-
-To add your project, open a PR adding a row to the relevant category table:
-
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| Your Project | A short description of your project. | [your-repo-name](https://github.com/your-username/your-repo) | [Link](https://your-live-url.com) |
-
-1. Fork this repository
-2. Add your project to the appropriate category table
-3. Open a Pull Request
-
-Once your PR is merged, you will automatically be added to the contributors list below.
-
----
+| **StarKnetzBlitz** | Decentralized "Bounty-for-Information" platform on Starknet. AI Hunter Agents scour the web to solve STRK-funded bounties, with smart contracts ensuring trustless escrow and instant payouts. | [StarKnetzBlitz](https://github.com/Aditya-linux/StarKnetzBlitz) | [Link]() |
 
 ## Contributors
 
