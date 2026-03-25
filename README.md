@@ -37,7 +37,10 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Winky-Starkzap | A blinking app on Starknet. Every blink is a gasless on-chain transaction, powered by Privy social login and AVNU Paymaster. | [Repo](https://github.com/starkience/winky-starkzap) | [Live Demo](https://wink-with-starkzap.netlify.app/) |
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
+| FreePay | Lightweight crypto payment link infrastructure built on Starkzap and Starknet. Generate, share, and receive global payments instantly with gasless transactions and seamless wallet integration. | [Repo](https://github.com/avinashh10x/FreePay) | [Live](https://freepaynow.vercel.app/) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
+
+
 
 ## Gaming Applications
 
