@@ -53,6 +53,8 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| StarkYield Pro | One-tap crypto yield dashboard on Starknet. Stake STRK/BTC/USDC in one click with zero gas fees via Starkzap Paymaster. | [Repo](https://github.com/Mageshk100/starkyield) | [Live](https://starkyield-mu.vercel.app/) |
+
 
 ---
 
