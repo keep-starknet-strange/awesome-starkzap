@@ -38,6 +38,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Gift App | Send tokens as gifts and earn yield with staking using Privy and Cartridge Controller. | [Repo](https://github.com/Akashneelesh/giftapp-starkzap/tree/main/examples/gift-app) | [Live Demo](https://giftapp-starkzap.vercel.app/) |
 | RafflePunk | A platform where anyone can come create a Raffle or participate in one. | [Repo](https://github.com/RealAdii/rafflepunk) | [Live Demo](https://raffle-app-one.vercel.app) |
 | StarkSplit | Split bills in Bitcoin-on-Starknet. Group expense splitting with gasless settlements. Idle funds stake for yield via STRK delegation pools. | [Repo](https://github.com/azeemshaik025/stark-split) | [Live Demo](https://stark-split.vercel.app/) |
+| ZapCode | Zapcode is a simple QR code payment system that lets businesses accept USDC on Starknet with just an email—no wallets, no gas fees, and no technical knowledge required, and also allows buyers make payments directly on the platform, all fees sponsored. | [Repo](https://github.com/OkoliEvans/zapcode) | [Live Demo](https://zapcodex.netlify.app/) |
 
 ## Gaming Applications
 
