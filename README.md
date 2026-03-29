@@ -53,6 +53,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
+| StarkFi | AI-native DeFi toolkit — production CLI (30+ commands), MCP server (27 tools), and 10 Agent Skills. DEX-aggregated swaps via Fibrous, multi-swap, stake (STRK/WBTC/tBTC/SolvBTC/LBTC), lend/borrow via Vesu V2, atomic batch multicalls, and gas abstraction (5 tokens + gasfree mode) via AVNU Paymaster. Uses all core Starkzap modules: Wallets, Staking, Paymaster, TxBuilder, and Tokens. | [Repo](https://github.com/ahmetenesdur/starkfi) | [Live](https://starkfi.app) · [Docs](https://docs.starkfi.app) · [npm](https://www.npmjs.com/package/starkfi) |
 
 ---
 
