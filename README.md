@@ -54,6 +54,11 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | ------------ | ----------- | ---------- | --------- |
 | StarkYield | Staking home for native BTC and STRK on Starknet. Built on Starkzap, track positions and rewards from a single dashboard. | [Repo](https://github.com/sainathr19/starkyield) | [Live](https://starkyield.vercel.app/) |
 
+# Prediction + Trading + Gaming Application
+
+| Project Name | Description | Repository | Live Link |
+| ------------ | ----------- | ---------- | --------- |
+| Starknomo | The first on-chain binary options trading dapp on Starknet. Powered by Starknet + Pyth Hermes price attestations + Off-chain state (Supabase) + x402-style payments + StarkZap. | [Repo](https://github.com/AmaanSayyad/Starknomo) | [Live](https://starknomo-puce.vercel.app/) |
 ---
 
 ## Contributing
