@@ -62,7 +62,7 @@ To add your project, open a PR adding a row to the relevant category table:
 
 | Project Name | Description | Repository | Live Link |
 | ------------ | ----------- | ---------- | --------- |
-| Your Project | A short description of your project. | [your-repo-name](https://github.com/your-username/your-repo) | [Link](https://your-live-url.com) |
+| Your Project | A short description of your project. | [your-repo-name](https://github.com/VrindaSuryavanshi/defipilot-starkzap) | [Link](https://defipilot-starkzap-frontend-xboe.vercel.app/) |
 
 1. Fork this repository
 2. Add your project to the appropriate category table
