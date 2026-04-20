@@ -47,6 +47,7 @@ Bring Bitcoin, stablecoins, and DeFi to any web or mobile app via Starknet in mi
 | Starkfleet  | Privacy-Preserving Turn-Based Battleship with Cartridge Controller | [Repo](https://github.com/fearmexxx/starkfleet-submission) | [Live Demo](https://fleet.supbro.fun/) |
 | Type Racer | Typing Race where every single correct word typed out is a transaction on Starknet. (Someone please integrate a Wager system :p) | [Repo](https://github.com/RealAdii/typeracer) | [Live Demo](https://typeracer-mainnet.vercel.app/) |
 | Tic-Tac-Toe | React Native Expo tic-tac-toe on Starknet with Cartridge session; official Starkzap monorepo example. | [Repo](https://github.com/keep-starknet-strange/starkzap/tree/main/examples/tic-tac-toe) | [README](https://github.com/keep-starknet-strange/starkzap/blob/main/examples/tic-tac-toe/README.md) |
+| guessmyNFT | Multiplayer ZK deduction game on Starknet — pick an NFT, ask trait-based questions, every answer verified by a Garaga zero-knowledge proof on-chain. StarkZap SDK wraps Cartridge onboarding and atomic join+commit multicalls. | [Repo](https://github.com/karlostoteles/guessmyNFT) | [Live Demo](https://guesschizodio.fun) |
 
 ## DeFi Applications
 
